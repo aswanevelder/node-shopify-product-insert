@@ -8,5 +8,5 @@ NodeJS function to insert products.
 **SHOPIFY_PASSWORD**: Generated Private App API Password\
 **SHOPIFY_DBURL**: MongoDB Url\
 **SHOPIFY_DBNAME**: MongoDB Database name\
-**SHOPIFY_COLLECTIONNAME**: MongoDB Database Collection name for Shopify Stock
+**SHOPIFY_COLLECTIONNAME**: MongoDB Database Collection name for Shopify Stock\
 **STORE_COLLECTIONNAME**: MongoDB Database Collection name for Store Stock
