@@ -1,5 +1,5 @@
 # node-shopify-product-insert
-NodeJS function to insert products.
+NodeJS function to insert Shopify products.
 
 **Environment Variables**
 
