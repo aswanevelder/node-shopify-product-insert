@@ -1,0 +1,31 @@
+{
+  "name": "shopify-product-insert",
+  "version": "1.0.0",
+  "description": "NodeJS function to insert Shopify products.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aswanevelder/node-shopify-product-insert.git"
+  },
+  "keywords": [
+    "node",
+    "shopify",
+    "product",
+    "create",
+    "insert"
+  ],
+  "author": "Anton Swanevelder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aswanevelder/node-shopify-product-insert/issues"
+  },
+  "homepage": "https://github.com/aswanevelder/node-shopify-product-insert#readme",
+  "dependencies": {
+    "json2csv": "^4.3.5",
+    "mongodb": "^3.1.13",
+    "shopify-api-node": "^2.18.1"
+  }
+}
